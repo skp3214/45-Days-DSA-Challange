@@ -1,6 +1,7 @@
 # 45 Days DSA Challange (Arsh DSA Sheet)
 [Day 1](#day-1)<br>
-[Day 2](#day-2)
+[Day 2](#day-2)<br>
+[Day 3](#day-3)<br>
 
 ## Day 1
 
@@ -18,3 +19,9 @@
 [9. Find the Index of first Occurrence in a String](/Day2/9.md)<br>
 [10. Add Binary](/Day2/10.md)<br>
 [11. Linked List Cycle](/Day2/11.md)
+
+## Day 3
+
+[12. N Queen](/Day3/12.md)<br>
+[13. M Coloring Problem](/Day3/13.md) <br>
+[14. Sudoko Solver](/Day3/14.md)
