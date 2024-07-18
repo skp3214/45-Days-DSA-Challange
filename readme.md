@@ -2,6 +2,7 @@
 [Day 1](#day-1)<br>
 [Day 2](#day-2)<br>
 [Day 3](#day-3)<br>
+[Day 4](#day-4)<br>
 
 ## Day 1
 
@@ -25,3 +26,12 @@
 [12. N Queen](/Day3/12.md)<br>
 [13. M Coloring Problem](/Day3/13.md) <br>
 [14. Sudoko Solver](/Day3/14.md)
+
+## Day 4
+[15. Find the Duplicate Number](/Day4/15.md)<br>
+[16. Sort Colors](/Day4/16.md)<br>
+[17. Find the All Duplicate Number](/Day4/17.md)<br>
+[18. Find Duplicate Char in a String](/Day4/18.md)<br>
+[19. Reverse Words in a String](/Day4/19.md)<br>
+[20. Number of Islands](/Day4/20.md)<br>
+[21. Find the Number Of Islands](/Day4/21.md)
