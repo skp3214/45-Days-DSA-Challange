@@ -1,8 +1,9 @@
-# 45 Days DSA Challange (Arsh DSA Sheet)
+# 45 Days DSA Challange (Arsh DSA Sheet) In C++
 [Day 1](#day-1)<br>
 [Day 2](#day-2)<br>
 [Day 3](#day-3)<br>
 [Day 4](#day-4)<br>
+[Day 5](#day-5)<br>
 
 ## Day 1
 
@@ -25,7 +26,8 @@
 
 [12. N Queen](/Day3/12.md)<br>
 [13. M Coloring Problem](/Day3/13.md) <br>
-[14. Sudoko Solver](/Day3/14.md)
+[14. Sudoko Solver](/Day3/14.md)<br>
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
 
 ## Day 4
 [15. Find the Duplicate Number](/Day4/15.md)<br>
@@ -34,4 +36,20 @@
 [18. Find Duplicate Char in a String](/Day4/18.md)<br>
 [19. Reverse Words in a String](/Day4/19.md)<br>
 [20. Number of Islands](/Day4/20.md)<br>
-[21. Find the Number Of Islands](/Day4/21.md)
+[21. Find the Number Of Islands](/Day4/21.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
+## Day5
+[22. Diameter Of Binary Tree](/Day5/22.md)<br>
+[23. Invert Tree](/Day5/23.md)<br>
+[24. Subtree of a another Tree](/Day5/24.md)<br>
+[25. Symmetric Tree](/Day5/25.md)<br>
+[26. Range Sum BST](/Day5/26.md)<br>
+[27. Convert Sorted Array To BST](/Day5/27.md)<br>
+[28. Merge Two Binary Tree](/Day5/28.md)<br>
+[29. Maximum Depth of Binary Tree](/Day5/29.md)<br>
+[30. Binary Tree Paths](/Day5/30.md)<br>
+[31. Same Tree](/Day5/31.md)<br>
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
