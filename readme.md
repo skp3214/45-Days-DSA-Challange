@@ -40,7 +40,7 @@
 
 ### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
 
-## Day5
+## Day 5
 [22. Diameter Of Binary Tree](/Day5/22.md)<br>
 [23. Invert Tree](/Day5/23.md)<br>
 [24. Subtree of a another Tree](/Day5/24.md)<br>
@@ -53,3 +53,9 @@
 [31. Same Tree](/Day5/31.md)<br>
 ### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
 
+## Day 6
+[32. Lowest Common Ancestor](/Day6/32.md)<br>
+[33. Path Sum](/Day6/33.md)<br>
+[34. Minimun Absolute Difference in BST](/Day6/34.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
