@@ -59,3 +59,7 @@
 [34. Minimun Absolute Difference in BST](/Day6/34.md)<br>
 
 ### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
+## Day 7
+[35. Sum Of Left Leaves](/Day7/35.md)<br>
+[36. SubArray Sum Divisible by k](/Day7/36.md)
