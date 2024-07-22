@@ -1,9 +1,10 @@
 # 45 Days DSA Challange (Arsh DSA Sheet) In C++
-[Day 1](#day-1)<br>
-[Day 2](#day-2)<br>
-[Day 3](#day-3)<br>
-[Day 4](#day-4)<br>
-[Day 5](#day-5)<br>
+
+
+| [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Day 6](#day-6) | [Day 7](#day-7) | [Day 8](#day-8) |               |
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+
+
 
 ## Day 1
 
@@ -63,3 +64,14 @@
 ## Day 7
 [35. Sum Of Left Leaves](/Day7/35.md)<br>
 [36. SubArray Sum Divisible by k](/Day7/36.md)
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
+## Day 8
+[37. 3 Sum](/Day8/37.md)<br>
+[38. 4 Sum](/Day8/38.md)<br>
+[39. Subarray Sum Equals K](/Day8/39.md)<br>
+[40. Spiral Matrix](/Day8/40.md)<br>
+[41. Majority Element](/Day8/41.md)<br>
+[42. Word Search](/Day8/42.md)<br>
+[43. Merge Sorted Array](/Day8/43.md)<br>
