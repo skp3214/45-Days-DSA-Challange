@@ -75,3 +75,9 @@
 [41. Majority Element](/Day8/41.md)<br>
 [42. Word Search](/Day8/42.md)<br>
 [43. Merge Sorted Array](/Day8/43.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
+## Day 9
+[44. Best Time to Buy and Sell Stock II](/Day9/44.md)<br>
+[45. Jump Game](/Day9/45.md)<br>
