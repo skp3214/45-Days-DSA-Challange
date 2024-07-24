@@ -81,3 +81,11 @@
 ## Day 9
 [44. Best Time to Buy and Sell Stock II](/Day9/44.md)<br>
 [45. Jump Game](/Day9/45.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
+## Day 10
+[46. Valid Parenthese](/Day10/46.md)<br>
+[47. Generate Parenthese](/Day10/47.md)<br>
+[48. Rotate Image](/Day10/48.md)<br>
+[49. Intersection of two Linked List](/Day10/49.md)<br>
