@@ -1,8 +1,10 @@
 # 45 Days DSA Challange (Arsh DSA Sheet) In C++
 
 
-| [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Day 6](#day-6) | [Day 7](#day-7) | [Day 8](#day-8) |               |
+| [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Day 6](#day-6) | [Day 7](#day-7) | [Day 8](#day-8) | [Day 9](#day-9)     |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
+| [Day 10](#day-10) | [Day 11](#day-11) | 
+
 
 
 
@@ -89,3 +91,13 @@
 [47. Generate Parenthese](/Day10/47.md)<br>
 [48. Rotate Image](/Day10/48.md)<br>
 [49. Intersection of two Linked List](/Day10/49.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
+## Day 11
+[50. Longest Common Prefix](/Day11/50.md)<br>
+[51. Convert Binary Number in a linked list to Integer](/Day11/51.md)<br>
+[52. Remove Duplicates from sorted Linked Lists](/Day11/52.md)<br>
+[53. Remove Linked List Elements](/Day11/53.md)<br>
+[54. Merge Two Sorted Linked List](/Day11/54.md)<br>
+[55. Reverse Linked List](/Day11/55.md)<br>
