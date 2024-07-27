@@ -111,3 +111,7 @@
 [59. All Unique Permutation](/Day12/59.md)<br>
 [60. Valid Parenthese II](/Day12/60.md)<br>
 [61. Integer To Roman](/Day12/61.md)<br>
+
+## Day 13
+[62. Largest Rectangle Histogram](/Day13/62.md)<br>
+[63. Permutation in Array](/Day13/63.md)<br>
