@@ -3,7 +3,7 @@
 
 | [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Day 6](#day-6) | [Day 7](#day-7) | [Day 8](#day-8) | [Day 9](#day-9)     | 
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| [Day 10](#day-10) | [Day 11](#day-11) | [Day 12](#day-12) |[Day 13](#day-13)|
+| [Day 10](#day-10) | [Day 11](#day-11) | [Day 12](#day-12) |[Day 13](#day-13)| [Day 14](#day-14) |
 
 
 
@@ -115,3 +115,8 @@
 ## Day 13
 [62. Largest Rectangle Histogram](/Day13/62.md)<br>
 [63. Permutation in Array](/Day13/63.md)<br>
+
+## Day 14
+[64. Minimum Moves to equal array elements II](/Day14/64.md)<br>
+[65. Product of 3 Numbers](/Day14/65.md)<br>
+[66. Product Array Puzzle](/Day14/66.md)<br>
