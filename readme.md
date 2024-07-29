@@ -120,3 +120,10 @@
 [64. Minimum Moves to equal array elements II](/Day14/64.md)<br>
 [65. Product of 3 Numbers](/Day14/65.md)<br>
 [66. Product Array Puzzle](/Day14/66.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
+## Day 15
+
+[67. Permute two arrays such that sum of every pair is greater or equal to K
+](/Day15/67.md)<br>
