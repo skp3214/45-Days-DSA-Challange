@@ -4,6 +4,7 @@
 | [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Day 6](#day-6) | [Day 7](#day-7) | [Day 8](#day-8) | [Day 9](#day-9)     | 
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | [Day 10](#day-10) | [Day 11](#day-11) | [Day 12](#day-12) |[Day 13](#day-13)| [Day 14](#day-14) |[Day 15](#day-15) |[Day 16](#day-16)|[Day 17](#day-17)|[Day18](#day-18)|
+| [Day 19](#day-10) |
 
 
 
@@ -141,3 +142,8 @@
 
 ## Day 18
 [74. Task Scheduler](/Day18/74.md)<br>
+
+## Day 19
+[75. Delete nodes having greater value on right](/Day19/75.md)<br>
+[76. Add Two Numbers](/Day19/76.md)<br>
+[77. Add Two Numbers II](/Day19/77.md)<br>
