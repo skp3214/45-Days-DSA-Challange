@@ -148,8 +148,22 @@
 [76. Add Two Numbers](/Day19/76.md)<br>
 [77. Add Two Numbers II](/Day19/77.md)<br>
 
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+
 ## Day 20
 [78. Simplify Path](/Day20/78.md)<br>
 [79. Group Anagrams](/Day20/79.md)<br>
 [80. Print Anagrams Together](/Day20/80.md)<br>
 [81. Valid Number](/Day20/81.md)<br>
+
+## Day 21
+[82. Balanced Binary Tree](/Day21/82.md)<br>
+[83. Predecessor and Successor](/Day21/83.md)<br>
+[84. Binary Tree InOrder Traversal](/Day21/84.md)<br>
+[85. Check Whether BST contains DEAD END](/Day21/85.md)<br>
+[86. BST Iterator](/Day21/86.md)<br>
+[87. Lowest Common Ancestor](/Day21/87.md)<br>
+[88. Unique Binary Search Tree II](/Day21/88.md)<br>
+[89. Binary Tree Right Side View](/Day21/89.md)<br>
+[90. Binary Tree Level Order Traversal](/Day21/90.md)<br>
+[91. Median Of BST](/Day21/91.md)<br>
