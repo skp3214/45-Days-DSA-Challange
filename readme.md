@@ -4,7 +4,7 @@
 | [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Day 6](#day-6) | [Day 7](#day-7) | [Day 8](#day-8) | [Day 9](#day-9)     | 
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | [Day 10](#day-10) | [Day 11](#day-11) | [Day 12](#day-12) |[Day 13](#day-13)| [Day 14](#day-14) |[Day 15](#day-15) |[Day 16](#day-16)|[Day 17](#day-17)|[Day18](#day-18)|
-| [Day 19](#day-19) |[Day 20](#day-20)|
+| [Day 19](#day-19) |[Day 20](#day-20)|[Day 21](#day-21)|[Day 22](#day-22)
 
 
 
@@ -167,3 +167,11 @@
 [89. Binary Tree Right Side View](/Day21/89.md)<br>
 [90. Binary Tree Level Order Traversal](/Day21/90.md)<br>
 [91. Median Of BST](/Day21/91.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
+## Day 22
+[92. Top K Freequent Elements](/Day22/92.md)<br>
+[93. Kth Largest Element in an Array](/Day22/93.md)<br>
+[94. Kth Smallest Element in a Sorted Matrix](/Day22/94.md)<br>
+[95. Largest SubArray With Sum 0](/Day22/95.md)<br>
+[96. Ugly Number II](/Day22/96.md)<br>
