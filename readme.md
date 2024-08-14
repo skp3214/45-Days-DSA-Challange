@@ -190,6 +190,7 @@
 ## Day 27
 [102. Detect cycle in a Directed Graph](/Day27/102.md)<br>
 [103. Detect cycle in a Undirected Graph](/Day27/103.md)<br>
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
 
 ## Day 28
 [104. Longest Common Substring](/Day28/104.md)<br>
@@ -203,3 +204,10 @@
 
 [108. Subsets](/Day30/108.md)<br>
 
+## Day 31
+[109. Best Time To Buy and Sell Stocks IV](/Day31/109.md)<br>
+[110. Job Sequencing Problem](/Day31/110.md)<br>
+[111. Rain Water Trapping](/Day31/111.md)<br>
+[112. Counting Bits](/Day31/112.md)<br>
+
+### [Back To Top](#45-days-dsa-challange-arsh-dsa-sheet-in-c)
